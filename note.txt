@@ -1,0 +1,7 @@
+
+
+
+     @Resource( name = "who" ) : get the bean name "who" and wire it to the object.
+     @Repository( value = "who" ):create a bean named "who".  -- DAO level
+
+     Write by Jian Hu.
